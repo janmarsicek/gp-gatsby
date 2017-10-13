@@ -1,0 +1,2 @@
+webpackJsonp([34185788019369],{60:function(e,t,o){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=o(6),f=u(n),l=o(83),r=(u(l),function(){return f.default.createElement("div",{className:"foo"},"Hello from the other side")});t.default=r,e.exports=t.default},83:function(e,t){}});
+//# sourceMappingURL=component---src-pages-my-component-js-d965c9bebab60184d02e.js.map
